@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Copyright 2018, Lennart Schueler, Sebastian Mueller
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+[GeoStat-Framework]({{ site.source_link }})
 &mdash;
-this site is [open source]({{ site.source_link }})
+this site was made with the [SinglePaged theme](https://github.com/t413/SinglePaged)
 

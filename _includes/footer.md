@@ -1,6 +1,6 @@
 
 
-Copyright 2018, Lennart Schueler, Sebastian Mueller
+Copyright 2018, Sebastian Müller, Lennart Schüler
 &mdash;
 [GeoStat-Framework]({{ site.source_link }})
 &mdash;

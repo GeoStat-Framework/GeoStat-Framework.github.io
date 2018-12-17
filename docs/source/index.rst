@@ -44,6 +44,8 @@ ogs5py is a python-API for the OpenGeoSys 5 scientific modeling package.
 
 :Source:
     https://github.com/GeoStat-Framework/ogs5py
+:Documentation:
+    (not available by now)
 :Installation:
     ``pip install https://github.com/GeoStat-Framework/ogs5py/archive/master.zip``
 
@@ -77,5 +79,7 @@ WellTestPy is a python-package for handling well based field campaigns.
 
 :Source:
     https://github.com/GeoStat-Framework/welltestpy
+:Documentation:
+    (not available by now)
 :Installation:
     ``pip install https://github.com/GeoStat-Framework/welltestpy/archive/master.zip``

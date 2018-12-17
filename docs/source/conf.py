@@ -46,8 +46,8 @@ master_doc = "index"
 
 # General information about the project.
 project = "GeoStat Framework"
-copyright = "2018, Sebastian Müller, Lennart Schüler"
-author = "Sebastian Müller, Lennart Schüler"
+copyright = u"2018, Sebastian Müller, Lennart Schüler"
+author = u"Sebastian Müller, Lennart Schüler"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

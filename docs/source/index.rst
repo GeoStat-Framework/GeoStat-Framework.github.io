@@ -12,6 +12,9 @@ The GeoStat Framework is a Python framework for geostatistical simulations.
 Included Packages
 =================
 
+The following Python-Packages are part of the GeoStat Framework.
+
+
 GeoStatTools
 ------------
 

@@ -36,7 +36,7 @@ random field generation, variogram estimation and covariance models.
 ogs5py
 ------
 
-ogs5py is a python-API for the OpenGeoSys 5 scientific modeling package.
+ogs5py is a Python-API for the OpenGeoSys 5 scientific modeling package.
 
 .. image:: pics/OGS.png
    :width: 150px
@@ -45,9 +45,9 @@ ogs5py is a python-API for the OpenGeoSys 5 scientific modeling package.
 :Source:
     https://github.com/GeoStat-Framework/ogs5py
 :Documentation:
-    (not available by now)
+    https://geostat-framework.readthedocs.io/projects/ogs5py
 :Installation:
-    ``pip install https://github.com/GeoStat-Framework/ogs5py/archive/master.zip``
+    ``pip install ogs5py``
 
 
 AnaFlow

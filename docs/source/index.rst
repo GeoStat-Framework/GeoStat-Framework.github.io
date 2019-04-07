@@ -15,8 +15,8 @@ Included Packages
 The following Python-Packages are part of the GeoStat Framework.
 
 
-GeoStatTools
-------------
+GSTools
+-------
 
 GeoStatTools is a library providing geostatistical tools like
 random field generation, variogram estimation and covariance models.
@@ -50,6 +50,23 @@ ogs5py is a Python-API for the OpenGeoSys 5 scientific modeling package.
     ``pip install ogs5py``
 
 
+WellTestPy
+----------
+
+WellTestPy is a python-package for handling well based field campaigns.
+
+.. image:: pics/WTP.png
+   :width: 150px
+   :align: center
+
+:Source:
+    https://github.com/GeoStat-Framework/welltestpy
+:Documentation:
+    https://geostat-framework.readthedocs.io/projects/welltestpy
+:Installation:
+    ``pip install welltestpy``
+    
+
 AnaFlow
 -------
 
@@ -66,20 +83,3 @@ groundwater-flow-equation.
     https://geostat-framework.readthedocs.io/projects/anaflow
 :Installation:
     ``pip install anaflow``
-
-
-WellTestPy
-----------
-
-WellTestPy is a python-package for handling well based field campaigns.
-
-.. image:: pics/WTP.png
-   :width: 150px
-   :align: center
-
-:Source:
-    https://github.com/GeoStat-Framework/welltestpy
-:Documentation:
-    (not available by now)
-:Installation:
-    ``pip install https://github.com/GeoStat-Framework/welltestpy/archive/master.zip``

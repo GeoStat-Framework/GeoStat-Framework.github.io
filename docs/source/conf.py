@@ -42,7 +42,7 @@ source_suffix = ".rst"
 # --> this is the sitemap (or content-list in latex -> needs a heading)
 # for html: the quickstart (in index.rst)
 # gets the "index.html" and is therefore opened first
-master_doc = "index"
+master_doc = "contents"
 
 # General information about the project.
 project = "GeoStat Framework"
@@ -93,9 +93,9 @@ html_theme_options = {
     #    'style_external_links': False,
     #    'vcs_pageview_mode': '',
     # Toc options
-    "collapse_navigation": False,
+    "collapse_navigation": True,
     "sticky_navigation": True,
-    "navigation_depth": 1,
+    "navigation_depth": 3,
     "includehidden": True,
     "titles_only": False,
 }

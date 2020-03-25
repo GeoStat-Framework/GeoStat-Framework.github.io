@@ -1,6 +1,6 @@
 
 
-Copyright 2019, Sebastian Müller, Lennart Schüler, Falk Heße
+Copyright 2019 - 2020, Sebastian Müller, Lennart Schüler, Falk Heße
 &mdash;
 [GeoStat-Framework]({{ site.source_link }})
 &mdash;

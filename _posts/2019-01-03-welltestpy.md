@@ -30,7 +30,7 @@ icon: "/docs/source/pics/wtp-head.png"
     <p><strong>Documentation</strong></p>
   </td>
   <td style="text-align: left;">
-    <a href="https://geostat-framework.readthedocs.io/projects/welltestpy/en/latest/">
+    <a href="https://welltestpy.readthedocs.io">
     <p>ReadTheDocs</p>
     </a>
   </td>

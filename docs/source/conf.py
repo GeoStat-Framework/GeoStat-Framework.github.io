@@ -27,6 +27,8 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+import datetime
+
 extensions = [
 ]
 
@@ -45,8 +47,9 @@ source_suffix = ".rst"
 master_doc = "contents"
 
 # General information about the project.
+curr_year = datetime.datetime.now().year
 project = "GeoStat Framework"
-copyright = u"2018, Sebastian Müller, Lennart Schüler"
+copyright = "2018 - {}, Sebastian Müller, Lennart Schüler".format(curr_year)
 author = u"Sebastian Müller, Lennart Schüler"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -121,13 +124,16 @@ html_sidebars = {
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = "GeoStatFrameworkdoc"
+# logos for the page
+html_logo = "pics/GeoStat-150.png"
+html_favicon = "pics/GeoStat.ico"
 
 # -- Options for manual page output ---------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, "geostattools", "GeoStatTools Documentation", [author], 1)
+    (master_doc, "geostat-framework", "GeoStat-Framework Documentation", [author], 1)
 ]
 
 suppress_warnings = [

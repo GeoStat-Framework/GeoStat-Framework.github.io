@@ -125,7 +125,7 @@ html_sidebars = {
 # Output file base name for HTML help builder.
 htmlhelp_basename = "GeoStatFrameworkdoc"
 # logos for the page
-html_logo = "pics/GeoStat-150.png"
+html_logo = "pics/GeoStat_150.png"
 html_favicon = "pics/GeoStat.ico"
 
 # -- Options for manual page output ---------------------------------------

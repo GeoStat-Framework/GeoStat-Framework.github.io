@@ -111,6 +111,8 @@ WellTestPy is a python-package for handling well based field campaigns.
    * - **Version**
      - .. image:: https://badge.fury.io/py/welltestpy.svg
           :target: https://badge.fury.io/py/welltestpy
+       .. image:: https://img.shields.io/conda/vn/conda-forge/welltestpy.svg
+          :target: https://anaconda.org/conda-forge/welltestpy
 
    * - **Installation**
      - ``pip install welltestpy``
@@ -138,6 +140,8 @@ groundwater-flow-equation.
    * - **Version**
      - .. image:: https://badge.fury.io/py/anaflow.svg
           :target: https://badge.fury.io/py/anaflow
+       .. image:: https://img.shields.io/conda/vn/conda-forge/anaflow.svg
+          :target: https://anaconda.org/conda-forge/anaflow
 
    * - **Installation**
      - ``pip install anaflow``
@@ -164,6 +168,8 @@ pentapy is a toolbox to deal with pentadiagonal matrices in Python.
    * - **Version**
      - .. image:: https://badge.fury.io/py/pentapy.svg
           :target: https://badge.fury.io/py/pentapy
+       .. image:: https://img.shields.io/conda/vn/conda-forge/pentapy.svg
+          :target: https://anaconda.org/conda-forge/pentapy
 
    * - **Installation**
      - ``pip install pentapy``
